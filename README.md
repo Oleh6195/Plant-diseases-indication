@@ -1,6 +1,6 @@
 # Plant-diseases-indication
 
-One Paragraph of project description goes here
+
 
 
 ### Prerequisites
@@ -9,7 +9,7 @@ One Paragraph of project description goes here
 ```
 git clone https://github.com/Oleh6195/Plant-diseases-indication
 ```
-Download images from https://drive.google.com/open?id=1r2WQUzJENkdaPaZlmnIn-6c1N9LN8Sen
+Download images from ``` https://drive.google.com/open?id=1r2WQUzJENkdaPaZlmnIn-6c1N9LN8Sen ```
 
 ### Installing
 
