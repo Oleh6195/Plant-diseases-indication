@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/Oleh6195/Plant-diseases-indication
 ```
-Download images from ``` https://drive.google.com/open?id=1r2WQUzJENkdaPaZlmnIn-6c1N9LN8Sen ```
+Download images from ``` https://drive.google.com/file/d/1cb99vY9l_7AXgW9Frk6ZBO3xjP9ZRZ0B/view?usp=sharing ```
 
 ### Installing
 
